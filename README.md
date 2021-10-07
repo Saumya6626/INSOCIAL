@@ -9,6 +9,9 @@ in real time using socket-io.
 It has got notification bar for displaying the notification 
 and update features and settings for each user. 
 
+IMPORTANT:
+It contains some screenshot of the working of the website in png which can be viewed for reference
+
 ## Install dependencies for server 
 ### `npm install`
 
