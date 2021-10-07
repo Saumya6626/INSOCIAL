@@ -1,6 +1,13 @@
 #INSOCIAL 
-The platform is implemented using MERNSTACK using REACT for front-end development, Nodejs and express for backend development, and MongoDB ATLAS as cloud database along with Socket.io for the chat module in our platform.
-It has proper authentication for register and login used using jwt .People can upload the pictures and write the post,follow one another ,comment and like the pictures of each other and can even chat with one another in real time using socket-io.It has got notification bar for displaying the notification and update features and settings for each user. 
+The platform is implemented using MERNSTACK using REACT for front-end development, Nodejs and express for backend development,
+and MongoDB ATLAS as cloud database along with Socket.io for the chat module in our platform.
+
+It has proper authentication for register and login used using jwt .
+People can upload the pictures and write the post,follow one another ,
+comment and like the pictures of each other and can even chat with one another
+in real time using socket-io.
+It has got notification bar for displaying the notification 
+and update features and settings for each user. 
 
 ## Install dependencies for server 
 ### `npm install`
